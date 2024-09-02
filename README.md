@@ -4,15 +4,12 @@
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
-
 <p align="left">My name is Mervin Abraham and I'm a Software developer from Printo.</p>
 
 ###
 
 <h2 align="left">About me</h2>
 
-###
 
 <h5 align="left">✨ Creating bugs since 2019<br>📚 I’m currently learning Machine Learning, Data Mining and Business Intelligence<br>🎯 Goals: Data Scientist<br>🎲 Fun fact: Patience is the key to virtue<br>🏫: Completed my Bachelors and Masters in Computer Applications. <br>👨🏻‍💻: Love to work with Face Recognition, OpenCV, Hugging Face, Tensor Flow etc.<br><br>I have put in few repos which I had worked with as part of my project or research during my Masters. <br><br>I am currently looking into a field where my passion lies which is to analyze data and to predict the outcome of the data. I have completed my MCA  few months back where my interests were on machine learning and statistical mathematical analysis using Python and R programming with matplot, seaborn, and many other libraries to plot the analysis which were made. I have huge interest in OpenCV and image recognition using Python.</h5>
 
