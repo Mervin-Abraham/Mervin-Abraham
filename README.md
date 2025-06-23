@@ -59,6 +59,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
   <img width="12" />
+  <img src="https://files.svgcdn.io/logos/typesense-icon.svg" height="40" alt="typesense logo" />
+  <img width="12" />
+  <img src="https://files.svgcdn.io/logos/openai.svg" height="40" alt="openai logo" />
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" alt="docker logo" />
 
   <!-- 📊 ML / Data Science -->
