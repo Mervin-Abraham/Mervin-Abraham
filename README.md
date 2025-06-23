@@ -1,17 +1,48 @@
-<img align="right" height="" src="https://media3.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=ecf05e47irnicqcaremuuxc76wzg5ghfk52uc6tvrdokbrel&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="220" src="https://media3.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=ecf05e47irnicqcaremuuxc76wzg5ghfk52uc6tvrdokbrel&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 ###
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 I'm Mervin Abraham</h1>
 
-<p align="left">My name is Mervin Abraham and I'm a Software developer from Printo.</p>
+<h3 align="left">🚀 Backend & AI Dev | Conversational Systems · Semantic Search · Scalable Automation</h3>
+
+<p align="left">I'm a Software Developer at <strong>Printo.in</strong>, currently working on some really cool stuff like AI-powered chatbots, backend automation services, and scalable systems. My recent focus has been on building <strong>production-ready RAG-based conversational agents</strong> using <strong>Typesense, OpenAI, and vLLM</strong>, along with Celery-powered async pipelines and Dockerized deployments.
+</p>
 
 ###
 
 <h2 align="left">About me</h2>
 
 
-<h5 align="left">✨ Creating bugs since 2019<br>📚 I’m currently learning Machine Learning, Data Mining and Business Intelligence<br>🎯 Goals: Data Scientist<br>🎲 Fun fact: Patience is the key to virtue<br>🏫: Completed my Bachelors and Masters in Computer Applications. <br>👨🏻‍💻: Love to work with Face Recognition, OpenCV, Hugging Face, Tensor Flow etc.<br><br>I have put in few repos which I had worked with as part of my project or research during my Masters. <br><br>I am currently looking into a field where my passion lies which is to analyze data and to predict the outcome of the data. I have completed my MCA  few months back where my interests were on machine learning and statistical mathematical analysis using Python and R programming with matplot, seaborn, and many other libraries to plot the analysis which were made. I have huge interest in OpenCV and image recognition using Python.</h5>
+### 🧠 What I'm into
+- 🤖 Building backend + AI systems that just work — clean, fast, and scalable.
+- 🔍 Vector search, LLMs, LangChain-style orchestration, semantic relevance.
+- 🧱 Designing tools and workflows for DevOps, product automation, and shipping operations.
+- 📈 Passionate about analytics, data storytelling, and applied ML.
+- 🛠️ Always experimenting with frameworks like FastAPI, MediaPipe, and OpenCV.
+> 💡 Currently learning deeper agentic AI architectures, cloud deployment strategies (GCP), and scalable tool-using AI patterns.
+
+###
+
+### 🔧 Featured Projects
+- [`flask-rag-service`](https://github.com/Mervin-Abraham/flask-rag-service)  
+  → Lightweight conversational search backend using Typesense + vLLM, OpenAI fallback, and session state handling
+
+- [`Covid-19 Prediction and Analysis`](https://github.com/Mervin-Abraham/Covid-19-Prediction-and-Analysis)  
+  → Built a time-series based COVID prediction tool using Python, Matplotlib, and regression models to visualize and forecast outbreak trends.
+
+- [`Crime_Control`](https://github.com/Mervin-Abraham/Crime_Control)  
+  → Android application that uses **FaceNet** for facial recognition and verification of criminals against a central database. Integrates **real-time alerting** and **cloud-based image processing**.
+
+- [`Traffic Sign Detection and Recognition`](https://github.com/Mervin-Abraham/Traffic-Sign-Detection-and-Recognition)  
+  → Built a **CNN-based classifier** for German traffic sign dataset, reaching **~98% accuracy**. Applied real-time recognition logic suited for autonomous vehicle systems.
+
+- [`RBL_Project`](https://github.com/Mervin-Abraham/RBL_Project)  
+  → Modeled energy consumption in cloud datacenters using heuristic techniques to predict and optimize power usage for large-scale systems.
+  
+
+---
+
 
 ###
 
